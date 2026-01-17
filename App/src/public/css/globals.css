@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.container-main {
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    color: #10b981;
+}
+
+.button-green:hover {
+    background-color: #dcfff5;
+    color: #007f55;
+}
+
+.button-green {
+    background-color: #dcfff5;
+}
